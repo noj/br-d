@@ -42,5 +42,5 @@ typically this is when I apply meat products.
 ## Favorite pizza toppings
 
 * Tomato sauce, mozarella and prosciutto
-* Creme fraich, lightly boiled (and drained) slices of potato with Svedjan hard cheese (in case you can't find Svedjan, use Västerbottenost) cheese, sprinkle rose mary on top. The potatoes might need some salt also.
+* Creme fraiche, lightly boiled (and drained) slices of potato with Svedjan hard cheese (in case you can't find Svedjan, use Västerbottenost) cheese, sprinkle rose mary on top. The potatoes might need some salt also.
 * Tomato sauce, mozarella, mortadella, lemon juice
