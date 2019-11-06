@@ -6,13 +6,13 @@ range.
 
 ## Ingredients
 
-1300g   high protein weat flour
-200g    whole weat flour
-45g     excellent quality salt
-225g    sourdough starter
-75g     excellent quality olive oil
-7.5g    fresh yeast
-1000g   room temperatur water
+* 1300g   high protein weat flour
+* 200g    whole weat flour
+* 45g     excellent quality salt
+* 225g    sourdough starter
+* 75g     excellent quality olive oil
+* 7.5g    fresh yeast
+* 1000g   room temperatur water
 
 ## Preparing the dough
 
