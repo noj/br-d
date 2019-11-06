@@ -20,22 +20,22 @@ Mix dry ingredients in a large bowl
 Mix wet ingredients in a separate bowl
 Combine the dry and wet ingredients until fully combined.
 Autolyse for 1h.
-Stretch and fold the dough for 5 times with 15 minute between each fold
+Stretch and fold the dough 5 times with 15 minute between each fold
 Let the dough bulk ferment in the fridge for about 8h
 Shape the pizza buns and put them on an oiled tray, also apply some oil on top
-of the buns. Place in the fridge and let rest until it's time to bake the
-pies.
+of the buns, cover in plastic.
+Place in fridge and let rest until it's time to bake the pies.
 
 ## Making the pizzas
 
 Turn the oven to the max temperature at least 1 hour before baking. Use a
 baking stone or sheet.
-When the owen is hot enough you can shape the pizza pies.
+When the oven is hot enough you can shape the pizza pies.
 I work from the middle and press the dough outwards, leaving large edges.
 Stretch the dough using the pizza man technique.
 Place the ready dough on a lightly floured spatula.
 Apply sauces and cheese and bake the pizza for approximately 8 minutes,
-depending on the oven. My owen goes to 250 degrees, so 8 minutes works nicely.
+depending on the oven. My oven goes to 250 degrees, so 8 minutes works nicely.
 Remove the pizza using the spatula and apply the toppings that go after,
 typically this is when I apply meat products.
 
