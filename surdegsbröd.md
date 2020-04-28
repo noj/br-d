@@ -20,7 +20,7 @@ Av Jon Olsson - Version 0.2
 3. Ta ½ dl grovt och ½dl vetemjöl och blanda ordentligt med 1dl vatten i burken
 4. Låt stå i ett dygn i rumstemperatur med locket på
 5. Häll av cirka hälften av massan och fyll på enligt #3
-6. Fortsätt med detta i några dagar till (kanske 5 dagaar), efter ett tag 
+6. Fortsätt med detta i några dagar till (kanske 5 dagar), efter ett tag 
    kommer du att se ett lager av skum som bildas, då är du nästan hemma!
 
 ## Underhållsmatning
@@ -35,7 +35,7 @@ surdegen.
 Inför ett bak brukar jag "ladda" surdegen genom att mata den varje dag i 2-3
 dagar, så att surdegen är riktigt pigg och kry.
 
-## För-surdeg till bakning
+## För-surdeg till bakning (preferment)
 
 För att baka på surdegen och få ett så bra resultat som möjligt brukar jag
 använda följande som jäsmedel till själva degen (beräknat för ett recept på
@@ -55,7 +55,7 @@ Denna för-surdeg kan man nu baka på!
 
 ## Tartine Country Bread
 
-Ungefär efter receptet i boken Tartine bread. Receptet är dimensionerat för två limpor
+Ungefär efter receptet i boken (Tartine Bread)[https://www.amazon.com/Tartine-Bread-Chad-Robertson-ebook/dp/B00F8H0FNW/]. Receptet är dimensionerat för två limpor
 
 ### Steg 1 - Blanda degen till autolys
 
@@ -67,7 +67,7 @@ Blanda först:
 
 Se till att allt mjöl är inblandat - jag brukar blanda för hand, men det går
 säkert att använda en hushållsassistent också.
-Precis när allt är ihopblandat slutar du behandla degen och låter den stå
+Precis när allt är blandat slutar du behandla degen och låter den stå
 övertäckt med lock i 1h. Nu sker autolysfasen som är ett fint ord som betyder
 att vattnet absorberas in i mjölet.
 
@@ -84,7 +84,7 @@ Se till att saltet och vattnet inkorporeras i degen.
 Med cirka 15 minuters mellanrum tar du tag i degens kanter och viker degen in
 mot mitten så att det blir ett paket.
 Detta gör man för att utveckla gluten. Det finns gott om instruktioner på
-YouTube - sök på "folding dough".
+(YouTube)[https://www.youtube.com/results?search_query=folding+dough].
 
 Upprepa 5 gånger
 
@@ -114,7 +114,7 @@ mycket spänst du bara kan i toppenlagret.
 Mjöla på toppen av dina limpor och mjöla dina jäskorgar och ställ in i
 plastlådor med lock i kylskåpet för slutjäsning.
 
-YouTube - Shaping sourdough
+(YouTube)[https://www.youtube.com/results?search_query=shaping+sourdough+bread]
 
 ### Steg 6 - Slutjäsning
 
@@ -145,7 +145,8 @@ Den skyddande skorpan som skapas av den här processen är just skyddande, så o
 man inte tänker frysa in sitt bröd så kan man bara spara den med den skurna
 sidan ner mot en skärbräda. 
 
-Man ska absolut inte stoppa in brödet i plastpåse - då blir det mjukt och soggigt.
+Man ska absolut inte stoppa in brödet i plastpåse - då blir det mjukt, soggigt 
+och skorpan förstörs
 
 #### Exempel på schema:
 
