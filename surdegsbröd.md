@@ -1,6 +1,6 @@
 # Surdegsbröd
 
-Av Jon Olsson - Version 0.2
+Av Jon Olsson - Version 0.3
 
 # Utrustning
 
@@ -79,6 +79,8 @@ Blanda sedan:
 
 Se till att saltet och vattnet inkorporeras i degen.
 
+Vänta ca 15 minuter innan du fortsätter med nästa steg.
+
 ### Steg 3 - Bilda gluten
 
 Med cirka 15 minuters mellanrum tar du tag i degens kanter och viker degen in
@@ -86,7 +88,7 @@ mot mitten så att det blir ett paket.
 Detta gör man för att utveckla gluten. Det finns gott om instruktioner på
 [YouTube](https://www.youtube.com/results?search_query=folding+dough).
 
-Upprepa 5 gånger
+Upprepa 5 gånger, sedan går du direkt till nästa steg.
 
 ### Steg 4 - Bulkjäsning
 
