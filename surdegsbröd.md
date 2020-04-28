@@ -55,7 +55,7 @@ Denna för-surdeg kan man nu baka på!
 
 ## Tartine Country Bread
 
-Ungefär efter receptet i boken (Tartine Bread)[https://www.amazon.com/Tartine-Bread-Chad-Robertson-ebook/dp/B00F8H0FNW/]. Receptet är dimensionerat för två limpor
+Ungefär efter receptet i boken [Tartine Bread](https://www.amazon.com/Tartine-Bread-Chad-Robertson-ebook/dp/B00F8H0FNW/). Receptet är dimensionerat för två limpor
 
 ### Steg 1 - Blanda degen till autolys
 
@@ -84,7 +84,7 @@ Se till att saltet och vattnet inkorporeras i degen.
 Med cirka 15 minuters mellanrum tar du tag i degens kanter och viker degen in
 mot mitten så att det blir ett paket.
 Detta gör man för att utveckla gluten. Det finns gott om instruktioner på
-(YouTube)[https://www.youtube.com/results?search_query=folding+dough].
+[YouTube](https://www.youtube.com/results?search_query=folding+dough).
 
 Upprepa 5 gånger
 
@@ -95,14 +95,15 @@ Låt stå i kylskåp under lock i 8h
 ### Steg 5 - Formning av limpor
 
 Detta är det steg som är svårast att lära sig så om det går dåligt i något
-moment så behöver du inte bli ledsen, prova bara igen och justera. 
+moment så behöver du inte bli ledsen, prova bara igen och justera.
 Det krävs bara träning.
 
 Stjälp ut degen på en bänk och dela den i två lika stora delar.
 Forma degen försiktigt till runda bollar - här är det bra att använda sig av
 en degskrapa i metall för att degen inte ska fastna så mycket.
 
-Strö över minimalt med mjöl på toppen - så degen inte fastnar i handduken och låt vila i 30 minuter.
+Strö över minimalt med mjöl på toppen - så degen inte fastnar i handduken och 
+låt vila i 30 minuter.
 
 Vänd degen upp och ner så att det som förut var toppen ligger mot bänken,
 sträck försiktigt ut degen och vik in den mot mitten tills den börjar få en
@@ -114,7 +115,7 @@ mycket spänst du bara kan i toppenlagret.
 Mjöla på toppen av dina limpor och mjöla dina jäskorgar och ställ in i
 plastlådor med lock i kylskåpet för slutjäsning.
 
-(YouTube)[https://www.youtube.com/results?search_query=shaping+sourdough+bread]
+[YouTube](https://www.youtube.com/results?search_query=shaping+sourdough+bread)
 
 ### Steg 6 - Slutjäsning
 
@@ -143,10 +144,10 @@ Ta ut brödet och låt det svalna på ett galler (ingen handduk över eller så)
 
 Den skyddande skorpan som skapas av den här processen är just skyddande, så om
 man inte tänker frysa in sitt bröd så kan man bara spara den med den skurna
-sidan ner mot en skärbräda. 
+sidan ner mot en skärbräda.
 
-Man ska absolut inte stoppa in brödet i plastpåse - då blir det mjukt, soggigt 
-och skorpan förstörs
+Man ska absolut inte stoppa in brödet i plastpåse - då blir det mjukt, soggigt
+och skorpan förstörs.
 
 #### Exempel på schema:
 
