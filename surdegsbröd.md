@@ -155,6 +155,6 @@ och skorpan förstörs.
 
 * Dag 1 & 2: mata upp surdegsstartern
 * Dag 3 morgon: Gör "för-surdegen"
-* Dag 4 kväll:  Blanda till degen
-* Dag 5 morgon: Forma bröd
-* Dag 5 kväll: Grädda bröd
+* Dag 3 kväll:  Blanda till degen
+* Dag 4 morgon: Forma bröd
+* Dag 4 kväll: Grädda bröd
