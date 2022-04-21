@@ -39,5 +39,72 @@ A more normal size pizza pie is in the 200-250g weight range.
 ## Favorite pizza toppings
 
 * Tomato sauce, mozarella and prosciutto
-* Creme fraiche, lightly boiled (and drained) slices of potato with Svedjan hard cheese (in case you can't find Svedjan, use Västerbottenost), sprinkle rose mary on top. The potatoes might need some salt also.
+* Creme fraiche, lightly boiled (and drained), thin slices of potato with Svedjan hard cheese (in case you can't find Svedjan, use Västerbottenost), sprinkle rose mary on top. The potatoes might need some salt also.
 * Tomato sauce, mozarella, mortadella, lemon juice
+
+### White cheese only
+
+* Shredded mozzarella 120g
+* 8-10 chunks of fresh moz
+* Dried oregano
+* White pepper
+* 50g Grated aged parm
+* A sprinkling of salt
+
+Sprinkle fresh parm when finished cooking the pie
+
+### Mushroom
+
+* Shredded moz
+* 1cup pre-cooked mushrooms (6-8 mins)
+* Pickled red onions
+* Stinky cheese, tallegio or similar
+* 7-8 fresh moz
+* Sprinkle salt
+
+#### Pickled red onions
+
+Boil:
+* 400g water
+* 400g white vinegar
+* 80g sugare
+* 8g salt
+* 2 red onions, rinsed and slice
+
+Let sit for at least 3h
+
+### Kale
+
+* Shredded moz, 120g
+* Entire bunch of thinly sliced kale
+* Oily garlic including some of the oil
+* Grated parm
+* Chili flakes
+
+Post bake:
+
+* 50g olive oil + 50g lemon juice
+* Grated parm - lots
+
+#### Oily garlic
+
+* 15-20 cloves, thinly sliced
+* Cover with olive oil
+
+### Mortadella
+
+* Shredded moz, 120g
+* 7-8 tbsp Pesto
+* Parm
+* Mortadella slices
+
+#### Pesto
+
+* 225g olive oil
+* 100g basil
+* 25g parsley
+* 100g parm
+* 30g rinsed red onion
+* 100g toasted pine nuts
+* 5g salt
+* 30g lemon juice
