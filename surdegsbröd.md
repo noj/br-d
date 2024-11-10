@@ -41,10 +41,12 @@ För att baka på surdegen och få ett så bra resultat som möjligt brukar jag
 använda följande som jäsmedel till själva degen (beräknat för ett recept på
 1000g mjöl):
 
-50g  grovt mjöl (råg / grahamsmjöl)
-50g  vetemjöl
-100g vatten 
-60g  surdegsstarter
+| g        |                                   |
+| -------- | --------------------------------- |
+| 50g      | Grovt mjöl, råg eller grahamsmjöl |
+| 50g      | Vetemjöl, gärna vetemjöl special  |
+| 100g     | vatten                            |
+| 60g      | surdegsstarter                    |
 
 Efter cirka 5h borde för-surdegen börjat bubbla och öka i volym en massa. Gör
 då ett vattenprov - ta en liten klick och släpp ner i ett glas med vatten, om
@@ -59,11 +61,13 @@ Ungefär efter receptet i boken [Tartine Bread](https://www.amazon.com/Tartine-B
 
 ### Steg 1 - Blanda degen till autolys
 
-Blanda först:
-200g    Grovt mjöl
-800g    Vetemjöl
-700g    Vatten 
-260g    För-surdeg
+Blanda torrt med torrt och blött med blött först:
+| g     |             |
+| ----- | ----------- |
+| 200g  | Grovt mjöl  |
+| 800g  | Vetemjöl    |
+| 700g  | Vatten      |
+| 260g  | För-surdeg  |
 
 Se till att allt mjöl är inblandat - jag brukar blanda för hand, men det går
 säkert att använda en hushållsassistent också.
@@ -74,8 +78,10 @@ att vattnet absorberas in i mjölet.
 ### Steg 2 - Blanda salt i degen efter autolys
 
 Blanda sedan:
-50g     Vatten
-20g     Havssalt - helst inte med jod eftersom det är bakteriedödande
+| g     |             |
+| ----- | ----------- |
+| 50g   | Vatten      |
+| 25g   | Bra salt    |
 
 Se till att saltet och vattnet inkorporeras i degen.
 
