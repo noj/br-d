@@ -134,18 +134,19 @@ och låt den komma igång ännu mer i rumstemperatur. Gärna 2-3h.
 
 ### Steg 7 - Gräddning
 
-Sätt ugnen på 250grader i god tid (minst en halvtimme i förväg)
+Sätt ugnen på **250 grader** i god tid (minst en halvtimme i förväg)
 Stoppa in en gjutjärnspanna med lock i ugnen och värm den i cirka 15 minuter
 
 OBS! Var försiktig nu eftersom pannan kommer att vara svinvarm.
 
 Ta ut pannan och ta av locket - sikta i lite mjöl på botten, så degen mot
 förmodan inte fastnar.  Stjälp i degen i pannan. Skär ett mönster på toppen av
-degen med ett rakblad om du vill. Raka streck går bra.
+degen med ett rakblad om du vill. Raka streck går bra, försök skära med lutning
+på bladet.
 
-Låt grädda på 250 grader med lock på i 35 minuter
-Efter 35 minuter sänker du temperaturen till 240grader och tar av locket och
-gräddar för färg i 10 minuter.
+Låt grädda på **250 grader** med lock på i **35 minuter**
+Efter 35 minuter sänker du temperaturen till **240 grader** och tar av locket och
+gräddar för färg i **10 minuter**.
 
 Ta ut brödet och låt det svalna på ett galler (ingen handduk över eller så) i
 1h innan du smakar på det.
