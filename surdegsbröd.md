@@ -42,11 +42,11 @@ använda följande som jäsmedel till själva degen (beräknat för ett recept p
 1000g mjöl):
 
 | Vikt     | Ingrediens                        |
-| -------- | --------------------------------- |
+|----------|-----------------------------------|
 | 50g      | Grovt mjöl, råg eller grahamsmjöl |
 | 50g      | Vetemjöl, gärna vetemjöl special  |
-| 100g     | vatten                            |
-| 60g      | surdegsstarter                    |
+| 100g     | Vatten                            |
+| 60g      | Surdegsstarter                    |
 
 Efter cirka 5h borde för-surdegen börjat bubbla och öka i volym en massa. Gör
 då ett vattenprov - ta en liten klick och släpp ner i ett glas med vatten, om
@@ -63,12 +63,12 @@ Ungefär efter receptet i boken [Tartine Bread](https://www.amazon.com/Tartine-B
 
 Blanda torrt med torrt och blött med blött först:
 
-| Vikt   | Ingrediens  |
-|--------|-------------|
-| 200g   | Grovt mjöl  |
-| 800g   | Vetemjöl    |
-| 700g   | Vatten      |
-| 260g   | För-surdeg  |
+| Vikt   |   %   | Ingrediens  |
+|--------|-------|-------------|
+| 200g   |  20%  | Grovt mjöl  |
+| 800g   |  80%  | Vetemjöl    |
+| 700g   |  70%  | Vatten      |
+| 260g   |  26&  | För-surdeg  |
 
 Se till att allt mjöl är inblandat - jag brukar blanda för hand, men det går
 säkert att använda en hushållsassistent också.
@@ -80,10 +80,10 @@ att vattnet absorberas in i mjölet.
 
 Blanda sedan:
 
-| Vikt  | Ingrediens  |
-|-------|-------------|
-| 50g   | Vatten      |
-| 25g   | Bra salt    |
+| Vikt  |   %   | Ingrediens  |
+|-------|-------|-------------|
+| 50g   |  5%   | Vatten      |
+| 25g   |  2.5% | Bra salt    |
 
 Se till att saltet och vattnet inkorporeras i degen.
 
