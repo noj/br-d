@@ -62,6 +62,7 @@ Ungefär efter receptet i boken [Tartine Bread](https://www.amazon.com/Tartine-B
 ### Steg 1 - Blanda degen till autolys
 
 Blanda torrt med torrt och blött med blött först:
+
 | g     |             |
 | ----- | ----------- |
 | 200g  | Grovt mjöl  |
@@ -78,6 +79,7 @@ att vattnet absorberas in i mjölet.
 ### Steg 2 - Blanda salt i degen efter autolys
 
 Blanda sedan:
+
 | g     |             |
 | ----- | ----------- |
 | 50g   | Vatten      |
